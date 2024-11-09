@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+button:hover{
+    background-color:yellow;
+    color:red;
+}
+.nn {
+    background-color: #ce3cfa;
+}
+
+.last-cnt {
+    background-color: #ce3cfa;
+}
+
+li {
+    color: white;
+}
+
+.location-img {
+    background-color: black;
+}
+
+.database {
+    color: red;
+}
+
+.getusername {
+    color: green;
+    font-weight: bold;
+}
+
+.emailerror {
+    color: red;
+    font-weight: bold;
+    text-align: start;
+    margin-left: 10px;
+}
+
+.contact-us {
+    font-size: 26px;
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+}
+
+.whatsapp-icon {
+    position: fixed;
+    bottom: 20px;
+    /* Distance from the bottom */
+    right: 20px;
+    /* Distance from the right */
+    z-index: 1000;
+    /* Ensures the icon is on top of other elements */
+    cursor: pointer;
+}
+
+.whatsapp-icon img {
+    width: 60px;
+    /* Size of the icon */
+    height: 100px;
+
+    /* Maintain aspect ratio */
+}
+
+.img-below-text {
+    color: white;
+    font-weight: bold;
+}
+
+.img-rad {
+    border-radius: 50%;
+}
+
+.card-heading {
+    font-size: 26px;
+}
+
+.card-bg {
+    background-color: white;
+    border-radius: 10px;
+    outline: .1rem solid;
+    outline-offset: .1rem;
+}
+
+.btn {
+    background-color: red;
+    color: white;
+    font-weight: bold;
+}
+
+hr {
+    background-color: white;
+    height: 5px;
+}
+
+.second-left-image {
+    text-align: center;
+    border-radius: 20px;
+}
+
+.bh {
+    font-size: 26px;
+    text-align: center;
+    color: white;
+}
+
+ul {
+    color: white;
+    font-size: 26px;
+    padding: 24px;
+}
+
+.bp1 {
+    color: white;
+    text-align: center;
+    font-size: 24px;
+}
+
+.bp {
+    color: white;
+    text-align: center;
+    font-size: 24px;
+}
+
+.second-below {
+    background-color: #ce3cfa;
+}
+
+.body {
+    background-color: #ce3cfa;
+    background-size: cover;
+
+
+}
+
+.first-bg {
+    background-color: white;
+
+}
+
+.text {
+    color: #ce3cfa;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.input-style {
+    border-radius: 20px;
+    border-width: 0px;
+}
+
+.btn-style {
+    background-color: #ce3cfa;
+    color: white;
+    border-radius: 20px;
+    width: 180px;
+    padding: 3px;
+}
+
+.title-card {
+    background-color: #ce3cfa;
+    border-top-right-radius: 20px;
+}
